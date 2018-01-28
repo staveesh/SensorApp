@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="compass_btn">Compass</string>
+    <string name="acc_btn">Accelerometer</string>
+    <string name="prox_btn">Proximity</string>
+    <string name="compass">COMPASS</string>
+    <string name="accelerometer">ACCELEROMETER</string>
+    <string name="proximity">PROXIMITY</string>
+</resources>
