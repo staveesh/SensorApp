@@ -7,4 +7,5 @@
     <string name="accelerometer">ACCELEROMETER</string>
     <string name="proximity">PROXIMITY</string>
     <string name="_0">0\'</string>
+    <string name="_far_near">far_near</string>
 </resources>
