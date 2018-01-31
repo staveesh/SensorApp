@@ -44,7 +44,7 @@ public class accelero extends AppCompatActivity{
                 handleShakeEvent(count);
                 Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
                 // Vibrate for 500 milliseconds
-                v.vibrate(500);
+                v.vibrate(50);
             }
         });
     }
@@ -57,7 +57,7 @@ public class accelero extends AppCompatActivity{
         else if(randNo == 2)
             iv.setImageResource(R.drawable.paper);
         else
-            iv.setImageResource(R.drawable.scissor);
+            iv.setImageResource(R.drawable.scissors);
     }
 
     @Override
